@@ -42,7 +42,7 @@ document.addEventListener("DOMContentLoaded", function () {
             window.dataLayer = window.dataLayer || [];
             function gtag() { dataLayer.push(arguments); }
             gtag("js", new Date());
-            gtag("config", "G-R2H8CXP49K", { 'anonymize_ip': true });
+            gtag("config", "G-L8DEG5CWKG", { 'anonymize_ip': true });
         };
     }
 
